@@ -1,0 +1,18 @@
+Free Software Foundation 2013 Assets
+
+
+Current Assets:
+    Cash and cash equivalents       934,798
+    Investments                     264,530
+    Accounts receivable (net)       7,947
+    Contributions receivable        5,000
+    Inventory                       33,315
+    Prepaid expenses                5,790
+
+Property, plant and Equipment:
+    Office furniture and equipment  167,267
+    Accumulated depreciation        -146,049
+
+Noncurrent assets:
+    Security deposits               9,715
+
