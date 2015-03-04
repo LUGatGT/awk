@@ -1,0 +1,229 @@
+1	Qatar
+2	Liechtenstein
+3	Macau
+4	Bermuda
+5	Monaco
+6	Luxembourg
+7	Singapore
+8	Jersey
+9	Norway
+10	Falkland Islands (Islas Malvinas) 
+11	Switzerland
+12	Brunei
+13	Isle of Man 
+14	United States 
+15	Hong Kong 
+16	Guernsey
+17	Cayman Islands 
+18	Netherlands
+19	Canada
+20	Gibraltar
+21	Australia
+22	Austria
+23	British Virgin Islands 
+24	Kuwait
+25	Ireland
+26	Sweden
+27	Iceland
+28	Taiwan
+29	Germany
+30	Greenland
+31	Belgium
+32	Denmark
+33	New Caledonia 
+34	United Kingdom 
+35	Andorra
+36	Japan
+37	Israel
+38	Finland
+39	France
+40	Saint Pierre and Miquelon 
+41	European Union 
+42	Korea, South 
+43	Bahamas, The 
+44	Saudi Arabia 
+45	Faroe Islands 
+46	New Zealand 
+47	Spain
+48	United Arab Emirates 
+49	Bahrain
+50	Oman
+51	Italy
+52	Malta
+53	Turks and Caicos Islands 
+54	Guam
+55	Slovenia
+56	Czech Republic 
+57	Seychelles
+58	Equatorial Guinea 
+59	Aruba
+60	Barbados
+61	Slovakia
+62	Cyprus
+63	Greece
+64	Portugal
+65	Lithuania
+66	Estonia
+67	French Polynesia 
+68	Timor-Leste
+69	Poland
+70	Trinidad and Tobago 
+71	Hungary
+72	Gabon
+73	Chile
+74	Latvia
+75	Argentina
+76	Antigua and Barbuda 
+77	Russia
+78	Croatia
+79	Malaysia
+80	Uruguay
+81	Panama
+82	Botswana
+83	Saint Kitts and Nevis 
+84	Puerto Rico 
+85	Belarus
+86	Mauritius
+87	Lebanon
+88	Mexico
+89	Sint Maarten 
+90	Turkey
+91	Curacao
+92	Virgin Islands 
+93	Bulgaria
+94	Romania
+95	Dominica
+96	Kazakhstan
+97	Grenada
+98	Northern Mariana Islands 
+99	Venezuela
+100	Saint Lucia 
+101	Suriname
+102	Costa Rica 
+103	Iran
+104	Anguilla
+105	Brazil
+106	Saint Vincent and the Grenadines 
+107	Montenegro
+108	South Africa 
+109	Libya
+110	Colombia
+111	Serbia
+112	Peru
+113	Macedonia
+114	Azerbaijan
+115	Albania
+116	Ecuador
+117	Palau
+118	Cuba
+119	Tunisia
+120	Thailand
+121	China
+122	Turkmenistan
+123	Dominican Republic 
+124	Cook Islands 
+125	Maldives
+126	Jamaica
+127	Belize
+128	Marshall Islands 
+129	Guyana
+130	Montserrat
+131	Bosnia and Herzegovina 
+132	Namibia
+133	Tonga
+134	American Samoa 
+135	Saint Helena, Ascension, and Tristan da Cunha 
+136	Kosovo
+137	El Salvador 
+138	Algeria
+139	Ukraine
+140	Micronesia, Federated States of 
+141	Iraq
+142	Bhutan
+143	Paraguay
+144	Egypt
+145	Sri Lanka 
+146	Kiribati
+147	Angola
+148	Armenia
+149	Samoa
+150	Georgia
+151	Jordan
+152	Mongolia
+153	Niue
+154	Swaziland
+155	Bolivia
+156	Morocco
+157	Guatemala
+158	Indonesia
+159	Syria
+160	Nauru
+161	Fiji
+162	Vanuatu
+163	Congo, Republic of the 
+164	Honduras
+165	Philippines
+166	Nicaragua
+167	Cabo Verde 
+168	Vietnam
+169	India
+170	Wallis and Futuna 
+171	Uzbekistan
+172	Moldova
+173	Ghana
+174	Tuvalu
+175	Solomon Islands 
+176	Laos
+177	Pakistan
+178	West Bank 
+179	Papua New Guinea 
+180	Nigeria
+181	Djibouti
+182	Sudan
+183	Cambodia
+184	Western Sahara 
+185	Kyrgyzstan
+186	Chad
+187	Yemen
+188	Cameroon
+189	Tajikistan
+190	Mauritania
+191	Sao Tome and Principe 
+192	Lesotho
+193	Senegal
+194	Bangladesh
+195	Gambia, The 
+196	Zambia
+197	Kenya
+198	Korea, North 
+199	Cote d'Ivoire 
+200	Tanzania
+201	Burma
+202	Benin
+203	Burkina Faso 
+204	Uganda
+205	Nepal
+206	Rwanda
+207	South Sudan 
+208	Sierra Leone 
+209	Haiti
+210	Comoros
+211	Ethiopia
+212	Eritrea
+213	Mozambique
+214	Guinea-Bissau
+215	Afghanistan
+216	Mali
+217	Togo
+218	Guinea
+219	Tokelau
+220	Madagascar
+221	Malawi
+222	Niger
+223	Liberia
+224	Central African Republic 
+225	Burundi
+226	Somalia
+227	Zimbabwe
+228	Congo, Democratic Republic of the 
+

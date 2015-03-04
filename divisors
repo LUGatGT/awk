@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# finds the number of unique divisors of the number piped into the program
+
+# http://www.wikihow.com/Determine-the-Number-of-Divisors-of-an-Integer
+
+factor | cut -d ':' -f '2-' \
+    | tr ' ' '\n' | uniq -c | tail -n +2 \
+    | awk 'BEGIN{acc=1} {acc *= $1 + 1} END{print acc}'
+
